@@ -1,1 +1,1 @@
-Use this if you want to remove multiple portal only customers.
+Use this if you want to remove multiple portal only customers in JSM Cloud.
